@@ -1,0 +1,30 @@
+meal_name,meal_type,category,cuisine,ingredients,calories,protein_g,carbs_g,fat_g,fiber_g,iron_mg,calcium_mg,vitamin_b12_mcg,vitamin_d_mcg,zinc_mg,sodium_mg,potassium_mg,magnesium_mg,gi_score,is_vegetarian,is_vegan,is_pescatarian,contains_meat,contains_fish,contains_dairy,contains_eggs,contains_gluten,contains_soy,contains_tree_nuts,contains_shellfish,contains_pork
+Blueberry Oatmeal,Breakfast,Grain Bowl,American,oats blueberries chia seeds,380,12,62,9,10,3,180,0,2,2.1,120,420,110,50,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cinnamon Overnight Oats,Breakfast,Grain Bowl,American,oats cinnamon almond milk chia seeds,390,13,58,11,9,3,170,0,2,2,140,430,120,49,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Strawberry Chia Bowl,Breakfast,Smoothie Bowl,American,strawberries oats chia banana,350,11,52,8,10,2.5,160,0,1,2,90,410,100,48,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Egg Spinach Scramble,Breakfast,Egg Dish,American,eggs spinach potatoes olive oil,460,24,36,24,5,4.2,180,1.8,3,2.7,420,700,90,55,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Greek Yogurt Bowl,Breakfast,Yogurt Bowl,Mediterranean,greek yogurt berries oats,420,24,48,12,6,1.4,350,1.5,2,2.2,160,400,75,52,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Avocado Toast,Breakfast,Toast,American,gluten free bread avocado olive oil,390,9,40,19,8,2.2,100,0,1,1.5,260,650,90,50,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Berry Smoothie,Breakfast,Smoothie,American,banana berries oat milk flaxseed,360,10,54,9,7,2,160,0,1,1.7,110,520,95,47,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tofu Breakfast Bowl,Breakfast,Bowl,Asian,tofu spinach quinoa turmeric,430,24,42,18,7,5.5,310,0,1,2.5,280,640,110,45,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Chicken Rice Bowl,Lunch,Rice Bowl,American,chicken brown rice spinach carrots,650,45,68,16,8,3.1,120,1.2,2,3.2,520,850,120,53,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Turkey Rice Bowl,Lunch,Rice Bowl,American,turkey brown rice zucchini spinach,620,42,64,14,7,2.9,110,1,2,3.1,480,810,110,52,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Quinoa Veggie Bowl,Lunch,Grain Bowl,Mediterranean,quinoa spinach cucumber carrots chickpeas,540,18,72,18,13,5.4,210,0,1,2.8,360,820,150,50,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lentil Rice Bowl,Lunch,Grain Bowl,Indian,lentils rice spinach cumin turmeric,580,22,82,14,15,6.5,180,0,1,3.1,420,860,155,50,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tuna Cucumber Bowl,Lunch,Rice Bowl,Japanese,tuna rice cucumber avocado,590,36,65,18,6,2.2,90,3.8,6,2.1,430,720,100,54,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Salmon Quinoa Bowl,Lunch,Protein Bowl,Japanese,salmon quinoa spinach cucumber,610,39,52,22,7,2.5,110,5,10,3.5,450,820,120,50,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chicken Salad Bowl,Lunch,Salad,American,chicken lettuce cucumber carrots olive oil,520,40,28,20,8,2.8,100,1.1,2,2.9,390,730,95,42,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mediterranean Chickpea Bowl,Lunch,Grain Bowl,Mediterranean,chickpeas quinoa cucumber spinach olive oil,550,19,70,18,14,5,190,0,1,2.6,340,810,140,48,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Turkey Lettuce Wraps,Lunch,Wrap,American,turkey lettuce cucumber carrots avocado,510,38,24,18,6,2.6,90,1.1,2,2.7,320,760,90,40,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tofu Veggie Bowl,Lunch,Bowl,Asian,tofu broccoli quinoa carrots ginger,540,26,58,18,10,5.2,330,0,1,3,370,780,145,48,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Grilled Salmon Rice Bowl,Dinner,Rice Bowl,Japanese,salmon brown rice cucumber carrots,680,42,66,24,7,2.8,120,5.5,12,3.9,480,890,130,54,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chicken Veggie Plate,Dinner,Plate,American,chicken sweet potato spinach zucchini,640,44,54,18,8,3.3,120,1.2,2,3,460,850,115,51,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Turkey Sweet Potato Plate,Dinner,Plate,American,turkey sweet potato spinach carrots,620,42,50,17,7,3,110,1,2,2.9,440,830,110,50,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tofu Stir Fry,Dinner,Stir Fry,Asian,tofu broccoli brown rice ginger,610,30,70,20,9,5.8,420,0,1,3.5,520,780,145,48,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Quinoa Stuffed Peppers,Dinner,Stuffed Dish,Mediterranean,quinoa spinach herbs olive oil,590,18,74,20,11,5.2,210,0,1,2.7,320,780,135,50,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Baked Cod Rice Plate,Dinner,Plate,American,cod brown rice spinach zucchini,620,40,58,18,7,2.3,110,4.5,9,3.1,390,790,110,52,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chickpea Quinoa Plate,Dinner,Plate,Mediterranean,chickpeas quinoa spinach cucumber olive oil,600,20,78,20,15,5.5,220,0,1,2.8,340,820,145,49,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Egg Veggie Rice Bowl,Dinner,Bowl,Asian,eggs brown rice spinach ginger,560,24,58,18,6,4.5,190,1.9,3,2.5,410,720,100,52,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Turkey Quinoa Bowl,Dinner,Bowl,American,turkey quinoa spinach cucumber,610,41,52,18,7,3.2,120,1,2,3,390,790,115,49,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Salmon Veggie Plate,Dinner,Plate,Japanese,salmon spinach sweet potato cucumber,650,40,50,22,7,2.7,120,5.1,11,3.4,430,840,120,50,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Veggie Lentil Bowl,Dinner,Bowl,Indian,lentils rice spinach turmeric cumin,610,23,82,14,16,6.4,190,0,1,3.1,360,880,160,49,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE

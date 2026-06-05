@@ -1,0 +1,7 @@
+sex,age_min,age_max,protein_g,fiber_g,iron_mg,calcium_mg,vitamin_b12_mcg,vitamin_d_mcg,zinc_mg,potassium_mg,magnesium_mg
+Female,19,30,46,25,18,1000,2.4,15,8,4700,310
+Female,31,50,46,25,18,1000,2.4,15,8,4700,320
+Female,51,120,46,21,8,1200,2.4,15,8,4700,320
+Male,19,30,56,38,8,1000,2.4,15,11,4700,400
+Male,31,50,56,38,8,1000,2.4,15,11,4700,420
+Male,51,120,56,30,8,1000,2.4,15,11,4700,420

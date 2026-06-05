@@ -1,0 +1,1028 @@
+ingredient,fodmap_level,fodmap_group,category
+organic garlic,HIGH,Monash-derived,vegetable
+fresh garlic,HIGH,Monash-derived,vegetable
+dried garlic,HIGH,Monash-derived,vegetable
+Garlic,HIGH,Monash-derived,vegetable
+garlic,HIGH,Monash-derived,vegetable
+raw garlic,HIGH,Monash-derived,vegetable
+fresh onion,HIGH,Monash-derived,vegetable
+Onion,HIGH,Monash-derived,vegetable
+dried onion,HIGH,Monash-derived,vegetable
+onion,HIGH,Monash-derived,vegetable
+organic onion,HIGH,Monash-derived,vegetable
+raw onion,HIGH,Monash-derived,vegetable
+raw shallot,HIGH,Monash-derived,vegetable
+shallot,HIGH,Monash-derived,vegetable
+Shallot,HIGH,Monash-derived,vegetable
+dried shallot,HIGH,Monash-derived,vegetable
+organic shallot,HIGH,Monash-derived,vegetable
+fresh shallot,HIGH,Monash-derived,vegetable
+raw leek,HIGH,Monash-derived,vegetable
+Leek,HIGH,Monash-derived,vegetable
+organic leek,HIGH,Monash-derived,vegetable
+dried leek,HIGH,Monash-derived,vegetable
+leek,HIGH,Monash-derived,vegetable
+fresh leek,HIGH,Monash-derived,vegetable
+dried cauliflower,HIGH,Monash-derived,vegetable
+fresh cauliflower,HIGH,Monash-derived,vegetable
+cauliflower,HIGH,Monash-derived,vegetable
+Cauliflower,HIGH,Monash-derived,vegetable
+raw cauliflower,HIGH,Monash-derived,vegetable
+organic cauliflower,HIGH,Monash-derived,vegetable
+dried artichoke,HIGH,Monash-derived,vegetable
+Artichoke,HIGH,Monash-derived,vegetable
+organic artichoke,HIGH,Monash-derived,vegetable
+raw artichoke,HIGH,Monash-derived,vegetable
+fresh artichoke,HIGH,Monash-derived,vegetable
+artichoke,HIGH,Monash-derived,vegetable
+Asparagus,HIGH,Monash-derived,vegetable
+fresh asparagus,HIGH,Monash-derived,vegetable
+organic asparagus,HIGH,Monash-derived,vegetable
+asparagus,HIGH,Monash-derived,vegetable
+raw asparagus,HIGH,Monash-derived,vegetable
+dried asparagus,HIGH,Monash-derived,vegetable
+mushroom,HIGH,Monash-derived,vegetable
+organic mushroom,HIGH,Monash-derived,vegetable
+raw mushroom,HIGH,Monash-derived,vegetable
+fresh mushroom,HIGH,Monash-derived,vegetable
+dried mushroom,HIGH,Monash-derived,vegetable
+Mushroom,HIGH,Monash-derived,vegetable
+snow peas,HIGH,Monash-derived,vegetable
+Snow Peas,HIGH,Monash-derived,vegetable
+raw beetroot,HIGH,Monash-derived,vegetable
+fresh beetroot,HIGH,Monash-derived,vegetable
+organic beetroot,HIGH,Monash-derived,vegetable
+beetroot,HIGH,Monash-derived,vegetable
+Beetroot,HIGH,Monash-derived,vegetable
+dried beetroot,HIGH,Monash-derived,vegetable
+fennel,HIGH,Monash-derived,vegetable
+dried fennel,HIGH,Monash-derived,vegetable
+fresh fennel,HIGH,Monash-derived,vegetable
+raw fennel,HIGH,Monash-derived,vegetable
+organic fennel,HIGH,Monash-derived,vegetable
+Fennel,HIGH,Monash-derived,vegetable
+savoy cabbage,HIGH,Monash-derived,vegetable
+Savoy Cabbage,HIGH,Monash-derived,vegetable
+brussels sprouts,HIGH,Monash-derived,vegetable
+Brussels Sprouts,HIGH,Monash-derived,vegetable
+spring onion,HIGH,Monash-derived,vegetable
+Spring Onion,HIGH,Monash-derived,vegetable
+fresh scallion,HIGH,Monash-derived,vegetable
+scallion,HIGH,Monash-derived,vegetable
+dried scallion,HIGH,Monash-derived,vegetable
+Scallion,HIGH,Monash-derived,vegetable
+organic scallion,HIGH,Monash-derived,vegetable
+raw scallion,HIGH,Monash-derived,vegetable
+Green Onion,HIGH,Monash-derived,vegetable
+green onion,HIGH,Monash-derived,vegetable
+broccoli stem,HIGH,Monash-derived,vegetable
+Broccoli Stem,HIGH,Monash-derived,vegetable
+fresh okra,HIGH,Monash-derived,vegetable
+organic okra,HIGH,Monash-derived,vegetable
+dried okra,HIGH,Monash-derived,vegetable
+okra,HIGH,Monash-derived,vegetable
+Okra,HIGH,Monash-derived,vegetable
+raw okra,HIGH,Monash-derived,vegetable
+dried celery,HIGH,Monash-derived,vegetable
+raw celery,HIGH,Monash-derived,vegetable
+organic celery,HIGH,Monash-derived,vegetable
+Celery,HIGH,Monash-derived,vegetable
+celery,HIGH,Monash-derived,vegetable
+fresh celery,HIGH,Monash-derived,vegetable
+sweet corn,HIGH,Monash-derived,vegetable
+Sweet Corn,HIGH,Monash-derived,vegetable
+dried cabbage,HIGH,Monash-derived,vegetable
+organic cabbage,HIGH,Monash-derived,vegetable
+raw cabbage,HIGH,Monash-derived,vegetable
+cabbage,HIGH,Monash-derived,vegetable
+Cabbage,HIGH,Monash-derived,vegetable
+fresh cabbage,HIGH,Monash-derived,vegetable
+organic apple,HIGH,Monash-derived,fruit
+Apple,HIGH,Monash-derived,fruit
+raw apple,HIGH,Monash-derived,fruit
+fresh apple,HIGH,Monash-derived,fruit
+apple,HIGH,Monash-derived,fruit
+dried apple,HIGH,Monash-derived,fruit
+Pear,HIGH,Monash-derived,fruit
+organic pear,HIGH,Monash-derived,fruit
+dried pear,HIGH,Monash-derived,fruit
+fresh pear,HIGH,Monash-derived,fruit
+raw pear,HIGH,Monash-derived,fruit
+pear,HIGH,Monash-derived,fruit
+mango,HIGH,Monash-derived,fruit
+dried mango,HIGH,Monash-derived,fruit
+organic mango,HIGH,Monash-derived,fruit
+raw mango,HIGH,Monash-derived,fruit
+Mango,HIGH,Monash-derived,fruit
+fresh mango,HIGH,Monash-derived,fruit
+Watermelon,HIGH,Monash-derived,fruit
+fresh watermelon,HIGH,Monash-derived,fruit
+raw watermelon,HIGH,Monash-derived,fruit
+organic watermelon,HIGH,Monash-derived,fruit
+watermelon,HIGH,Monash-derived,fruit
+dried watermelon,HIGH,Monash-derived,fruit
+Cherry,HIGH,Monash-derived,fruit
+organic cherry,HIGH,Monash-derived,fruit
+dried cherry,HIGH,Monash-derived,fruit
+cherry,HIGH,Monash-derived,fruit
+fresh cherry,HIGH,Monash-derived,fruit
+raw cherry,HIGH,Monash-derived,fruit
+organic peach,HIGH,Monash-derived,fruit
+fresh peach,HIGH,Monash-derived,fruit
+Peach,HIGH,Monash-derived,fruit
+dried peach,HIGH,Monash-derived,fruit
+peach,HIGH,Monash-derived,fruit
+raw peach,HIGH,Monash-derived,fruit
+nectarine,HIGH,Monash-derived,fruit
+organic nectarine,HIGH,Monash-derived,fruit
+fresh nectarine,HIGH,Monash-derived,fruit
+dried nectarine,HIGH,Monash-derived,fruit
+Nectarine,HIGH,Monash-derived,fruit
+raw nectarine,HIGH,Monash-derived,fruit
+Plum,HIGH,Monash-derived,fruit
+plum,HIGH,Monash-derived,fruit
+dried plum,HIGH,Monash-derived,fruit
+raw plum,HIGH,Monash-derived,fruit
+fresh plum,HIGH,Monash-derived,fruit
+organic plum,HIGH,Monash-derived,fruit
+fresh apricot,HIGH,Monash-derived,fruit
+organic apricot,HIGH,Monash-derived,fruit
+Apricot,HIGH,Monash-derived,fruit
+dried apricot,HIGH,Monash-derived,fruit
+apricot,HIGH,Monash-derived,fruit
+raw apricot,HIGH,Monash-derived,fruit
+blackberry,HIGH,Monash-derived,fruit
+dried blackberry,HIGH,Monash-derived,fruit
+fresh blackberry,HIGH,Monash-derived,fruit
+raw blackberry,HIGH,Monash-derived,fruit
+organic blackberry,HIGH,Monash-derived,fruit
+Blackberry,HIGH,Monash-derived,fruit
+lychee,HIGH,Monash-derived,fruit
+raw lychee,HIGH,Monash-derived,fruit
+organic lychee,HIGH,Monash-derived,fruit
+fresh lychee,HIGH,Monash-derived,fruit
+Lychee,HIGH,Monash-derived,fruit
+dried lychee,HIGH,Monash-derived,fruit
+dried persimmon,HIGH,Monash-derived,fruit
+raw persimmon,HIGH,Monash-derived,fruit
+fresh persimmon,HIGH,Monash-derived,fruit
+organic persimmon,HIGH,Monash-derived,fruit
+Persimmon,HIGH,Monash-derived,fruit
+persimmon,HIGH,Monash-derived,fruit
+fig,HIGH,Monash-derived,fruit
+fresh fig,HIGH,Monash-derived,fruit
+raw fig,HIGH,Monash-derived,fruit
+organic fig,HIGH,Monash-derived,fruit
+dried fig,HIGH,Monash-derived,fruit
+Fig,HIGH,Monash-derived,fruit
+raw guava,HIGH,Monash-derived,fruit
+dried guava,HIGH,Monash-derived,fruit
+guava,HIGH,Monash-derived,fruit
+organic guava,HIGH,Monash-derived,fruit
+fresh guava,HIGH,Monash-derived,fruit
+Guava,HIGH,Monash-derived,fruit
+organic date,HIGH,Monash-derived,fruit
+date,HIGH,Monash-derived,fruit
+raw date,HIGH,Monash-derived,fruit
+dried date,HIGH,Monash-derived,fruit
+Date,HIGH,Monash-derived,fruit
+fresh date,HIGH,Monash-derived,fruit
+Prune,HIGH,Monash-derived,fruit
+organic prune,HIGH,Monash-derived,fruit
+dried prune,HIGH,Monash-derived,fruit
+fresh prune,HIGH,Monash-derived,fruit
+raw prune,HIGH,Monash-derived,fruit
+prune,HIGH,Monash-derived,fruit
+dried raisin,HIGH,Monash-derived,fruit
+Raisin,HIGH,Monash-derived,fruit
+fresh raisin,HIGH,Monash-derived,fruit
+raw raisin,HIGH,Monash-derived,fruit
+organic raisin,HIGH,Monash-derived,fruit
+raisin,HIGH,Monash-derived,fruit
+Dried Apricot,HIGH,Monash-derived,fruit
+fruit cocktail,HIGH,Monash-derived,fruit
+Fruit Cocktail,HIGH,Monash-derived,fruit
+boysenberry,HIGH,Monash-derived,fruit
+dried boysenberry,HIGH,Monash-derived,fruit
+organic boysenberry,HIGH,Monash-derived,fruit
+fresh boysenberry,HIGH,Monash-derived,fruit
+raw boysenberry,HIGH,Monash-derived,fruit
+Boysenberry,HIGH,Monash-derived,fruit
+organic wheat,HIGH,Monash-derived,grain
+raw wheat,HIGH,Monash-derived,grain
+fresh wheat,HIGH,Monash-derived,grain
+wheat,HIGH,Monash-derived,grain
+Wheat,HIGH,Monash-derived,grain
+dried wheat,HIGH,Monash-derived,grain
+raw rye,HIGH,Monash-derived,grain
+dried rye,HIGH,Monash-derived,grain
+fresh rye,HIGH,Monash-derived,grain
+Rye,HIGH,Monash-derived,grain
+organic rye,HIGH,Monash-derived,grain
+rye,HIGH,Monash-derived,grain
+barley,HIGH,Monash-derived,grain
+organic barley,HIGH,Monash-derived,grain
+dried barley,HIGH,Monash-derived,grain
+Barley,HIGH,Monash-derived,grain
+fresh barley,HIGH,Monash-derived,grain
+raw barley,HIGH,Monash-derived,grain
+Bulgur,HIGH,Monash-derived,grain
+organic bulgur,HIGH,Monash-derived,grain
+dried bulgur,HIGH,Monash-derived,grain
+raw bulgur,HIGH,Monash-derived,grain
+fresh bulgur,HIGH,Monash-derived,grain
+bulgur,HIGH,Monash-derived,grain
+Couscous,HIGH,Monash-derived,grain
+couscous,HIGH,Monash-derived,grain
+organic couscous,HIGH,Monash-derived,grain
+dried couscous,HIGH,Monash-derived,grain
+raw couscous,HIGH,Monash-derived,grain
+fresh couscous,HIGH,Monash-derived,grain
+wheat flour,HIGH,Monash-derived,grain
+Wheat Flour,HIGH,Monash-derived,grain
+whole wheat,HIGH,Monash-derived,grain
+Whole Wheat,HIGH,Monash-derived,grain
+Bran,HIGH,Monash-derived,grain
+raw bran,HIGH,Monash-derived,grain
+fresh bran,HIGH,Monash-derived,grain
+bran,HIGH,Monash-derived,grain
+organic bran,HIGH,Monash-derived,grain
+dried bran,HIGH,Monash-derived,grain
+raw farro,HIGH,Monash-derived,grain
+fresh farro,HIGH,Monash-derived,grain
+dried farro,HIGH,Monash-derived,grain
+Farro,HIGH,Monash-derived,grain
+organic farro,HIGH,Monash-derived,grain
+farro,HIGH,Monash-derived,grain
+raw spelt,HIGH,Monash-derived,grain
+dried spelt,HIGH,Monash-derived,grain
+Spelt,HIGH,Monash-derived,grain
+spelt,HIGH,Monash-derived,grain
+organic spelt,HIGH,Monash-derived,grain
+fresh spelt,HIGH,Monash-derived,grain
+baked beans,HIGH,Monash-derived,legume
+Baked Beans,HIGH,Monash-derived,legume
+Kidney Beans,HIGH,Monash-derived,legume
+kidney beans,HIGH,Monash-derived,legume
+Black Beans,HIGH,Monash-derived,legume
+black beans,HIGH,Monash-derived,legume
+organic lentils,HIGH,Monash-derived,legume
+dried lentils,HIGH,Monash-derived,legume
+lentils,HIGH,Monash-derived,legume
+Lentils,HIGH,Monash-derived,legume
+fresh lentils,HIGH,Monash-derived,legume
+raw lentils,HIGH,Monash-derived,legume
+chickpeas,HIGH,Monash-derived,legume
+raw chickpeas,HIGH,Monash-derived,legume
+organic chickpeas,HIGH,Monash-derived,legume
+Chickpeas,HIGH,Monash-derived,legume
+dried chickpeas,HIGH,Monash-derived,legume
+fresh chickpeas,HIGH,Monash-derived,legume
+split peas,HIGH,Monash-derived,legume
+Split Peas,HIGH,Monash-derived,legume
+Navy Beans,HIGH,Monash-derived,legume
+navy beans,HIGH,Monash-derived,legume
+Butter Beans,HIGH,Monash-derived,legume
+butter beans,HIGH,Monash-derived,legume
+organic soybeans,HIGH,Monash-derived,legume
+raw soybeans,HIGH,Monash-derived,legume
+fresh soybeans,HIGH,Monash-derived,legume
+Soybeans,HIGH,Monash-derived,legume
+dried soybeans,HIGH,Monash-derived,legume
+soybeans,HIGH,Monash-derived,legume
+Edamame,HIGH,Monash-derived,legume
+organic edamame,HIGH,Monash-derived,legume
+fresh edamame,HIGH,Monash-derived,legume
+edamame,HIGH,Monash-derived,legume
+dried edamame,HIGH,Monash-derived,legume
+raw edamame,HIGH,Monash-derived,legume
+pinto beans,HIGH,Monash-derived,legume
+Pinto Beans,HIGH,Monash-derived,legume
+Cannellini Beans,HIGH,Monash-derived,legume
+cannellini beans,HIGH,Monash-derived,legume
+raw milk,HIGH,Monash-derived,dairy
+Milk,HIGH,Monash-derived,dairy
+organic milk,HIGH,Monash-derived,dairy
+dried milk,HIGH,Monash-derived,dairy
+fresh milk,HIGH,Monash-derived,dairy
+milk,HIGH,Monash-derived,dairy
+Ice Cream,HIGH,Monash-derived,dairy
+ice cream,HIGH,Monash-derived,dairy
+soft cheese,HIGH,Monash-derived,dairy
+Soft Cheese,HIGH,Monash-derived,dairy
+Cottage Cheese,HIGH,Monash-derived,dairy
+cottage cheese,HIGH,Monash-derived,dairy
+dried yogurt,HIGH,Monash-derived,dairy
+Yogurt,HIGH,Monash-derived,dairy
+raw yogurt,HIGH,Monash-derived,dairy
+fresh yogurt,HIGH,Monash-derived,dairy
+yogurt,HIGH,Monash-derived,dairy
+organic yogurt,HIGH,Monash-derived,dairy
+Evaporated Milk,HIGH,Monash-derived,dairy
+evaporated milk,HIGH,Monash-derived,dairy
+condensed milk,HIGH,Monash-derived,dairy
+Condensed Milk,HIGH,Monash-derived,dairy
+fresh ricotta,HIGH,Monash-derived,dairy
+raw ricotta,HIGH,Monash-derived,dairy
+organic ricotta,HIGH,Monash-derived,dairy
+ricotta,HIGH,Monash-derived,dairy
+Ricotta,HIGH,Monash-derived,dairy
+dried ricotta,HIGH,Monash-derived,dairy
+dried custard,HIGH,Monash-derived,dairy
+custard,HIGH,Monash-derived,dairy
+fresh custard,HIGH,Monash-derived,dairy
+raw custard,HIGH,Monash-derived,dairy
+Custard,HIGH,Monash-derived,dairy
+organic custard,HIGH,Monash-derived,dairy
+Cream Cheese,HIGH,Monash-derived,dairy
+cream cheese,HIGH,Monash-derived,dairy
+raw buttermilk,HIGH,Monash-derived,dairy
+organic buttermilk,HIGH,Monash-derived,dairy
+dried buttermilk,HIGH,Monash-derived,dairy
+buttermilk,HIGH,Monash-derived,dairy
+fresh buttermilk,HIGH,Monash-derived,dairy
+Buttermilk,HIGH,Monash-derived,dairy
+sour cream,HIGH,Monash-derived,dairy
+Sour Cream,HIGH,Monash-derived,dairy
+honey,HIGH,Monash-derived,sweetener
+dried honey,HIGH,Monash-derived,sweetener
+fresh honey,HIGH,Monash-derived,sweetener
+raw honey,HIGH,Monash-derived,sweetener
+Honey,HIGH,Monash-derived,sweetener
+organic honey,HIGH,Monash-derived,sweetener
+High Fructose Corn Syrup,HIGH,Monash-derived,sweetener
+high fructose corn syrup,HIGH,Monash-derived,sweetener
+agave,HIGH,Monash-derived,sweetener
+organic agave,HIGH,Monash-derived,sweetener
+dried agave,HIGH,Monash-derived,sweetener
+raw agave,HIGH,Monash-derived,sweetener
+fresh agave,HIGH,Monash-derived,sweetener
+Agave,HIGH,Monash-derived,sweetener
+raw molasses,HIGH,Monash-derived,sweetener
+organic molasses,HIGH,Monash-derived,sweetener
+fresh molasses,HIGH,Monash-derived,sweetener
+Molasses,HIGH,Monash-derived,sweetener
+dried molasses,HIGH,Monash-derived,sweetener
+molasses,HIGH,Monash-derived,sweetener
+Sorbitol,HIGH,Monash-derived,sweetener
+sorbitol,HIGH,Monash-derived,sweetener
+organic sorbitol,HIGH,Monash-derived,sweetener
+fresh sorbitol,HIGH,Monash-derived,sweetener
+dried sorbitol,HIGH,Monash-derived,sweetener
+raw sorbitol,HIGH,Monash-derived,sweetener
+mannitol,HIGH,Monash-derived,sweetener
+dried mannitol,HIGH,Monash-derived,sweetener
+Mannitol,HIGH,Monash-derived,sweetener
+organic mannitol,HIGH,Monash-derived,sweetener
+raw mannitol,HIGH,Monash-derived,sweetener
+fresh mannitol,HIGH,Monash-derived,sweetener
+fresh xylitol,HIGH,Monash-derived,sweetener
+dried xylitol,HIGH,Monash-derived,sweetener
+xylitol,HIGH,Monash-derived,sweetener
+raw xylitol,HIGH,Monash-derived,sweetener
+Xylitol,HIGH,Monash-derived,sweetener
+organic xylitol,HIGH,Monash-derived,sweetener
+dried isomalt,HIGH,Monash-derived,sweetener
+raw isomalt,HIGH,Monash-derived,sweetener
+Isomalt,HIGH,Monash-derived,sweetener
+fresh isomalt,HIGH,Monash-derived,sweetener
+isomalt,HIGH,Monash-derived,sweetener
+organic isomalt,HIGH,Monash-derived,sweetener
+Maltitol,HIGH,Monash-derived,sweetener
+raw maltitol,HIGH,Monash-derived,sweetener
+dried maltitol,HIGH,Monash-derived,sweetener
+organic maltitol,HIGH,Monash-derived,sweetener
+maltitol,HIGH,Monash-derived,sweetener
+fresh maltitol,HIGH,Monash-derived,sweetener
+dried fructose,HIGH,Monash-derived,sweetener
+organic fructose,HIGH,Monash-derived,sweetener
+fructose,HIGH,Monash-derived,sweetener
+fresh fructose,HIGH,Monash-derived,sweetener
+raw fructose,HIGH,Monash-derived,sweetener
+Fructose,HIGH,Monash-derived,sweetener
+Apple Juice,HIGH,Monash-derived,beverage
+apple juice,HIGH,Monash-derived,beverage
+Pear Juice,HIGH,Monash-derived,beverage
+pear juice,HIGH,Monash-derived,beverage
+Mango Juice,HIGH,Monash-derived,beverage
+mango juice,HIGH,Monash-derived,beverage
+chamomile tea,HIGH,Monash-derived,beverage
+Chamomile Tea,HIGH,Monash-derived,beverage
+soy milk,HIGH,Monash-derived,beverage
+Soy Milk,HIGH,Monash-derived,beverage
+oat milk concentrate,HIGH,Monash-derived,beverage
+Oat Milk Concentrate,HIGH,Monash-derived,beverage
+organic rum,HIGH,Monash-derived,beverage
+fresh rum,HIGH,Monash-derived,beverage
+Rum,HIGH,Monash-derived,beverage
+raw rum,HIGH,Monash-derived,beverage
+rum,HIGH,Monash-derived,beverage
+dried rum,HIGH,Monash-derived,beverage
+Dessert Wine,HIGH,Monash-derived,beverage
+dessert wine,HIGH,Monash-derived,beverage
+garlic powder,HIGH,Monash-derived,condiment
+Garlic Powder,HIGH,Monash-derived,condiment
+Onion Powder,HIGH,Monash-derived,condiment
+onion powder,HIGH,Monash-derived,condiment
+Garlic Salt,HIGH,Monash-derived,condiment
+garlic salt,HIGH,Monash-derived,condiment
+onion flakes,HIGH,Monash-derived,condiment
+Onion Flakes,HIGH,Monash-derived,condiment
+bbq sauce,HIGH,Monash-derived,condiment
+Bbq Sauce,HIGH,Monash-derived,condiment
+sweet chili sauce,HIGH,Monash-derived,condiment
+Sweet Chili Sauce,HIGH,Monash-derived,condiment
+Honey Mustard,HIGH,Monash-derived,condiment
+honey mustard,HIGH,Monash-derived,condiment
+Teriyaki Sauce,HIGH,Monash-derived,condiment
+teriyaki sauce,HIGH,Monash-derived,condiment
+spinach,LOW,None,vegetable
+Spinach,LOW,None,vegetable
+fresh spinach,LOW,None,vegetable
+dried spinach,LOW,None,vegetable
+raw spinach,LOW,None,vegetable
+organic spinach,LOW,None,vegetable
+carrot,LOW,None,vegetable
+Carrot,LOW,None,vegetable
+raw carrot,LOW,None,vegetable
+organic carrot,LOW,None,vegetable
+dried carrot,LOW,None,vegetable
+fresh carrot,LOW,None,vegetable
+cucumber,LOW,None,vegetable
+organic cucumber,LOW,None,vegetable
+Cucumber,LOW,None,vegetable
+dried cucumber,LOW,None,vegetable
+raw cucumber,LOW,None,vegetable
+fresh cucumber,LOW,None,vegetable
+Zucchini,LOW,None,vegetable
+raw zucchini,LOW,None,vegetable
+dried zucchini,LOW,None,vegetable
+fresh zucchini,LOW,None,vegetable
+organic zucchini,LOW,None,vegetable
+zucchini,LOW,None,vegetable
+bell pepper,LOW,None,vegetable
+Bell Pepper,LOW,None,vegetable
+Tomato,LOW,None,vegetable
+raw tomato,LOW,None,vegetable
+tomato,LOW,None,vegetable
+dried tomato,LOW,None,vegetable
+fresh tomato,LOW,None,vegetable
+organic tomato,LOW,None,vegetable
+dried eggplant,LOW,None,vegetable
+eggplant,LOW,None,vegetable
+raw eggplant,LOW,None,vegetable
+fresh eggplant,LOW,None,vegetable
+organic eggplant,LOW,None,vegetable
+Eggplant,LOW,None,vegetable
+potato,LOW,None,vegetable
+raw potato,LOW,None,vegetable
+dried potato,LOW,None,vegetable
+Potato,LOW,None,vegetable
+fresh potato,LOW,None,vegetable
+organic potato,LOW,None,vegetable
+Sweet Potato,LOW,None,vegetable
+sweet potato,LOW,None,vegetable
+Lettuce,LOW,None,vegetable
+lettuce,LOW,None,vegetable
+fresh lettuce,LOW,None,vegetable
+dried lettuce,LOW,None,vegetable
+organic lettuce,LOW,None,vegetable
+raw lettuce,LOW,None,vegetable
+raw kale,LOW,None,vegetable
+fresh kale,LOW,None,vegetable
+organic kale,LOW,None,vegetable
+kale,LOW,None,vegetable
+Kale,LOW,None,vegetable
+dried kale,LOW,None,vegetable
+Green Beans,LOW,None,vegetable
+green beans,LOW,None,vegetable
+bok choy,LOW,None,vegetable
+Bok Choy,LOW,None,vegetable
+organic pumpkin,LOW,None,vegetable
+fresh pumpkin,LOW,None,vegetable
+dried pumpkin,LOW,None,vegetable
+Pumpkin,LOW,None,vegetable
+raw pumpkin,LOW,None,vegetable
+pumpkin,LOW,None,vegetable
+Radish,LOW,None,vegetable
+fresh radish,LOW,None,vegetable
+organic radish,LOW,None,vegetable
+radish,LOW,None,vegetable
+dried radish,LOW,None,vegetable
+raw radish,LOW,None,vegetable
+Parsnip,LOW,None,vegetable
+raw parsnip,LOW,None,vegetable
+fresh parsnip,LOW,None,vegetable
+parsnip,LOW,None,vegetable
+dried parsnip,LOW,None,vegetable
+organic parsnip,LOW,None,vegetable
+fresh chives,LOW,None,vegetable
+dried chives,LOW,None,vegetable
+raw chives,LOW,None,vegetable
+Chives,LOW,None,vegetable
+chives,LOW,None,vegetable
+organic chives,LOW,None,vegetable
+dried arugula,LOW,None,vegetable
+organic arugula,LOW,None,vegetable
+fresh arugula,LOW,None,vegetable
+Arugula,LOW,None,vegetable
+arugula,LOW,None,vegetable
+raw arugula,LOW,None,vegetable
+Collard Greens,LOW,None,vegetable
+collard greens,LOW,None,vegetable
+Mustard Greens,LOW,None,vegetable
+mustard greens,LOW,None,vegetable
+raw turnip,LOW,None,vegetable
+organic turnip,LOW,None,vegetable
+Turnip,LOW,None,vegetable
+dried turnip,LOW,None,vegetable
+fresh turnip,LOW,None,vegetable
+turnip,LOW,None,vegetable
+raw watercress,LOW,None,vegetable
+fresh watercress,LOW,None,vegetable
+Watercress,LOW,None,vegetable
+watercress,LOW,None,vegetable
+dried watercress,LOW,None,vegetable
+organic watercress,LOW,None,vegetable
+raw endive,LOW,None,vegetable
+Endive,LOW,None,vegetable
+fresh endive,LOW,None,vegetable
+dried endive,LOW,None,vegetable
+endive,LOW,None,vegetable
+organic endive,LOW,None,vegetable
+swiss chard,LOW,None,vegetable
+Swiss Chard,LOW,None,vegetable
+Spaghetti Squash,LOW,None,vegetable
+spaghetti squash,LOW,None,vegetable
+acorn squash,LOW,None,vegetable
+Acorn Squash,LOW,None,vegetable
+butternut squash,LOW,None,vegetable
+Butternut Squash,LOW,None,vegetable
+Banana,LOW,None,fruit
+banana,LOW,None,fruit
+fresh banana,LOW,None,fruit
+dried banana,LOW,None,fruit
+organic banana,LOW,None,fruit
+raw banana,LOW,None,fruit
+dried blueberry,LOW,None,fruit
+blueberry,LOW,None,fruit
+Blueberry,LOW,None,fruit
+organic blueberry,LOW,None,fruit
+raw blueberry,LOW,None,fruit
+fresh blueberry,LOW,None,fruit
+strawberry,LOW,None,fruit
+dried strawberry,LOW,None,fruit
+organic strawberry,LOW,None,fruit
+Strawberry,LOW,None,fruit
+fresh strawberry,LOW,None,fruit
+raw strawberry,LOW,None,fruit
+organic orange,LOW,None,fruit
+fresh orange,LOW,None,fruit
+dried orange,LOW,None,fruit
+raw orange,LOW,None,fruit
+Orange,LOW,None,fruit
+orange,LOW,None,fruit
+fresh kiwi,LOW,None,fruit
+dried kiwi,LOW,None,fruit
+raw kiwi,LOW,None,fruit
+organic kiwi,LOW,None,fruit
+kiwi,LOW,None,fruit
+Kiwi,LOW,None,fruit
+Pineapple,LOW,None,fruit
+fresh pineapple,LOW,None,fruit
+organic pineapple,LOW,None,fruit
+pineapple,LOW,None,fruit
+dried pineapple,LOW,None,fruit
+raw pineapple,LOW,None,fruit
+grape,LOW,None,fruit
+Grape,LOW,None,fruit
+raw grape,LOW,None,fruit
+fresh grape,LOW,None,fruit
+organic grape,LOW,None,fruit
+dried grape,LOW,None,fruit
+Raspberry,LOW,None,fruit
+organic raspberry,LOW,None,fruit
+dried raspberry,LOW,None,fruit
+raspberry,LOW,None,fruit
+raw raspberry,LOW,None,fruit
+fresh raspberry,LOW,None,fruit
+raw cantaloupe,LOW,None,fruit
+organic cantaloupe,LOW,None,fruit
+dried cantaloupe,LOW,None,fruit
+cantaloupe,LOW,None,fruit
+fresh cantaloupe,LOW,None,fruit
+Cantaloupe,LOW,None,fruit
+dried honeydew,LOW,None,fruit
+honeydew,LOW,None,fruit
+fresh honeydew,LOW,None,fruit
+raw honeydew,LOW,None,fruit
+Honeydew,LOW,None,fruit
+organic honeydew,LOW,None,fruit
+dried papaya,LOW,None,fruit
+organic papaya,LOW,None,fruit
+Papaya,LOW,None,fruit
+fresh papaya,LOW,None,fruit
+papaya,LOW,None,fruit
+raw papaya,LOW,None,fruit
+dragonfruit,LOW,None,fruit
+organic dragonfruit,LOW,None,fruit
+dried dragonfruit,LOW,None,fruit
+fresh dragonfruit,LOW,None,fruit
+raw dragonfruit,LOW,None,fruit
+Dragonfruit,LOW,None,fruit
+fresh passionfruit,LOW,None,fruit
+raw passionfruit,LOW,None,fruit
+organic passionfruit,LOW,None,fruit
+passionfruit,LOW,None,fruit
+Passionfruit,LOW,None,fruit
+dried passionfruit,LOW,None,fruit
+lime,LOW,None,fruit
+dried lime,LOW,None,fruit
+Lime,LOW,None,fruit
+raw lime,LOW,None,fruit
+fresh lime,LOW,None,fruit
+organic lime,LOW,None,fruit
+fresh lemon,LOW,None,fruit
+Lemon,LOW,None,fruit
+raw lemon,LOW,None,fruit
+dried lemon,LOW,None,fruit
+lemon,LOW,None,fruit
+organic lemon,LOW,None,fruit
+raw clementine,LOW,None,fruit
+organic clementine,LOW,None,fruit
+dried clementine,LOW,None,fruit
+clementine,LOW,None,fruit
+fresh clementine,LOW,None,fruit
+Clementine,LOW,None,fruit
+raw mandarin,LOW,None,fruit
+dried mandarin,LOW,None,fruit
+Mandarin,LOW,None,fruit
+fresh mandarin,LOW,None,fruit
+mandarin,LOW,None,fruit
+organic mandarin,LOW,None,fruit
+organic cranberry,LOW,None,fruit
+dried cranberry,LOW,None,fruit
+Cranberry,LOW,None,fruit
+fresh cranberry,LOW,None,fruit
+cranberry,LOW,None,fruit
+raw cranberry,LOW,None,fruit
+organic starfruit,LOW,None,fruit
+starfruit,LOW,None,fruit
+dried starfruit,LOW,None,fruit
+raw starfruit,LOW,None,fruit
+Starfruit,LOW,None,fruit
+fresh starfruit,LOW,None,fruit
+raw jackfruit,LOW,None,fruit
+Jackfruit,LOW,None,fruit
+fresh jackfruit,LOW,None,fruit
+organic jackfruit,LOW,None,fruit
+jackfruit,LOW,None,fruit
+dried jackfruit,LOW,None,fruit
+raw rice,LOW,None,grain
+Rice,LOW,None,grain
+organic rice,LOW,None,grain
+rice,LOW,None,grain
+dried rice,LOW,None,grain
+fresh rice,LOW,None,grain
+raw oats,LOW,None,grain
+oats,LOW,None,grain
+fresh oats,LOW,None,grain
+Oats,LOW,None,grain
+organic oats,LOW,None,grain
+dried oats,LOW,None,grain
+Quinoa,LOW,None,grain
+organic quinoa,LOW,None,grain
+fresh quinoa,LOW,None,grain
+quinoa,LOW,None,grain
+dried quinoa,LOW,None,grain
+raw quinoa,LOW,None,grain
+Corn,LOW,None,grain
+organic corn,LOW,None,grain
+fresh corn,LOW,None,grain
+dried corn,LOW,None,grain
+corn,LOW,None,grain
+raw corn,LOW,None,grain
+dried polenta,LOW,None,grain
+raw polenta,LOW,None,grain
+polenta,LOW,None,grain
+Polenta,LOW,None,grain
+fresh polenta,LOW,None,grain
+organic polenta,LOW,None,grain
+Millet,LOW,None,grain
+raw millet,LOW,None,grain
+dried millet,LOW,None,grain
+organic millet,LOW,None,grain
+fresh millet,LOW,None,grain
+millet,LOW,None,grain
+fresh buckwheat,LOW,None,grain
+dried buckwheat,LOW,None,grain
+Buckwheat,LOW,None,grain
+raw buckwheat,LOW,None,grain
+buckwheat,LOW,None,grain
+organic buckwheat,LOW,None,grain
+gluten free bread,LOW,None,grain
+Gluten Free Bread,LOW,None,grain
+Rice Noodles,LOW,None,grain
+rice noodles,LOW,None,grain
+corn tortillas,LOW,None,grain
+Corn Tortillas,LOW,None,grain
+rice cakes,LOW,None,grain
+Rice Cakes,LOW,None,grain
+brown rice,LOW,None,grain
+Brown Rice,LOW,None,grain
+wild rice,LOW,None,grain
+Wild Rice,LOW,None,grain
+dried chicken,LOW,None,protein
+Chicken,LOW,None,protein
+fresh chicken,LOW,None,protein
+organic chicken,LOW,None,protein
+chicken,LOW,None,protein
+raw chicken,LOW,None,protein
+Turkey,LOW,None,protein
+organic turkey,LOW,None,protein
+dried turkey,LOW,None,protein
+raw turkey,LOW,None,protein
+fresh turkey,LOW,None,protein
+turkey,LOW,None,protein
+dried beef,LOW,None,protein
+fresh beef,LOW,None,protein
+raw beef,LOW,None,protein
+beef,LOW,None,protein
+organic beef,LOW,None,protein
+Beef,LOW,None,protein
+organic salmon,LOW,None,protein
+dried salmon,LOW,None,protein
+fresh salmon,LOW,None,protein
+Salmon,LOW,None,protein
+raw salmon,LOW,None,protein
+salmon,LOW,None,protein
+dried tuna,LOW,None,protein
+raw tuna,LOW,None,protein
+organic tuna,LOW,None,protein
+fresh tuna,LOW,None,protein
+Tuna,LOW,None,protein
+tuna,LOW,None,protein
+fresh cod,LOW,None,protein
+cod,LOW,None,protein
+dried cod,LOW,None,protein
+Cod,LOW,None,protein
+raw cod,LOW,None,protein
+organic cod,LOW,None,protein
+dried egg,LOW,None,protein
+Egg,LOW,None,protein
+fresh egg,LOW,None,protein
+organic egg,LOW,None,protein
+egg,LOW,None,protein
+raw egg,LOW,None,protein
+raw shrimp,LOW,None,protein
+dried shrimp,LOW,None,protein
+organic shrimp,LOW,None,protein
+shrimp,LOW,None,protein
+fresh shrimp,LOW,None,protein
+Shrimp,LOW,None,protein
+raw crab,LOW,None,protein
+fresh crab,LOW,None,protein
+dried crab,LOW,None,protein
+crab,LOW,None,protein
+organic crab,LOW,None,protein
+Crab,LOW,None,protein
+fresh lobster,LOW,None,protein
+organic lobster,LOW,None,protein
+lobster,LOW,None,protein
+dried lobster,LOW,None,protein
+Lobster,LOW,None,protein
+raw lobster,LOW,None,protein
+Halibut,LOW,None,protein
+raw halibut,LOW,None,protein
+organic halibut,LOW,None,protein
+halibut,LOW,None,protein
+fresh halibut,LOW,None,protein
+dried halibut,LOW,None,protein
+Tilapia,LOW,None,protein
+tilapia,LOW,None,protein
+organic tilapia,LOW,None,protein
+raw tilapia,LOW,None,protein
+fresh tilapia,LOW,None,protein
+dried tilapia,LOW,None,protein
+organic trout,LOW,None,protein
+dried trout,LOW,None,protein
+trout,LOW,None,protein
+raw trout,LOW,None,protein
+fresh trout,LOW,None,protein
+Trout,LOW,None,protein
+fresh sardine,LOW,None,protein
+Sardine,LOW,None,protein
+sardine,LOW,None,protein
+organic sardine,LOW,None,protein
+raw sardine,LOW,None,protein
+dried sardine,LOW,None,protein
+fresh anchovy,LOW,None,protein
+anchovy,LOW,None,protein
+organic anchovy,LOW,None,protein
+raw anchovy,LOW,None,protein
+Anchovy,LOW,None,protein
+dried anchovy,LOW,None,protein
+lamb,LOW,None,protein
+dried lamb,LOW,None,protein
+Lamb,LOW,None,protein
+fresh lamb,LOW,None,protein
+raw lamb,LOW,None,protein
+organic lamb,LOW,None,protein
+fresh pork,LOW,None,protein
+Pork,LOW,None,protein
+pork,LOW,None,protein
+dried pork,LOW,None,protein
+organic pork,LOW,None,protein
+raw pork,LOW,None,protein
+dried duck,LOW,None,protein
+Duck,LOW,None,protein
+organic duck,LOW,None,protein
+duck,LOW,None,protein
+raw duck,LOW,None,protein
+fresh duck,LOW,None,protein
+organic venison,LOW,None,protein
+venison,LOW,None,protein
+dried venison,LOW,None,protein
+raw venison,LOW,None,protein
+fresh venison,LOW,None,protein
+Venison,LOW,None,protein
+organic bison,LOW,None,protein
+fresh bison,LOW,None,protein
+raw bison,LOW,None,protein
+dried bison,LOW,None,protein
+bison,LOW,None,protein
+Bison,LOW,None,protein
+Lactose Free Milk,LOW,None,dairy
+lactose free milk,LOW,None,dairy
+Hard Cheese,LOW,None,dairy
+hard cheese,LOW,None,dairy
+parmesan,LOW,None,dairy
+Parmesan,LOW,None,dairy
+raw parmesan,LOW,None,dairy
+fresh parmesan,LOW,None,dairy
+organic parmesan,LOW,None,dairy
+dried parmesan,LOW,None,dairy
+fresh cheddar,LOW,None,dairy
+cheddar,LOW,None,dairy
+organic cheddar,LOW,None,dairy
+Cheddar,LOW,None,dairy
+dried cheddar,LOW,None,dairy
+raw cheddar,LOW,None,dairy
+Swiss Cheese,LOW,None,dairy
+swiss cheese,LOW,None,dairy
+Goat Cheese,LOW,None,dairy
+goat cheese,LOW,None,dairy
+fresh brie,LOW,None,dairy
+Brie,LOW,None,dairy
+organic brie,LOW,None,dairy
+dried brie,LOW,None,dairy
+raw brie,LOW,None,dairy
+brie,LOW,None,dairy
+dried feta,LOW,None,dairy
+Feta,LOW,None,dairy
+feta,LOW,None,dairy
+raw feta,LOW,None,dairy
+organic feta,LOW,None,dairy
+fresh feta,LOW,None,dairy
+Chia,LOW,None,nut_seed
+raw chia,LOW,None,nut_seed
+dried chia,LOW,None,nut_seed
+organic chia,LOW,None,nut_seed
+fresh chia,LOW,None,nut_seed
+chia,LOW,None,nut_seed
+raw flaxseed,LOW,None,nut_seed
+flaxseed,LOW,None,nut_seed
+organic flaxseed,LOW,None,nut_seed
+Flaxseed,LOW,None,nut_seed
+fresh flaxseed,LOW,None,nut_seed
+dried flaxseed,LOW,None,nut_seed
+pumpkin seed,LOW,None,nut_seed
+Pumpkin Seed,LOW,None,nut_seed
+organic walnut,LOW,None,nut_seed
+dried walnut,LOW,None,nut_seed
+raw walnut,LOW,None,nut_seed
+walnut,LOW,None,nut_seed
+fresh walnut,LOW,None,nut_seed
+Walnut,LOW,None,nut_seed
+raw pecan,LOW,None,nut_seed
+organic pecan,LOW,None,nut_seed
+pecan,LOW,None,nut_seed
+fresh pecan,LOW,None,nut_seed
+dried pecan,LOW,None,nut_seed
+Pecan,LOW,None,nut_seed
+fresh macadamia,LOW,None,nut_seed
+organic macadamia,LOW,None,nut_seed
+macadamia,LOW,None,nut_seed
+raw macadamia,LOW,None,nut_seed
+Macadamia,LOW,None,nut_seed
+dried macadamia,LOW,None,nut_seed
+raw sesame,LOW,None,nut_seed
+Sesame,LOW,None,nut_seed
+fresh sesame,LOW,None,nut_seed
+dried sesame,LOW,None,nut_seed
+organic sesame,LOW,None,nut_seed
+sesame,LOW,None,nut_seed
+Sunflower Seed,LOW,None,nut_seed
+sunflower seed,LOW,None,nut_seed
+hemp seed,LOW,None,nut_seed
+Hemp Seed,LOW,None,nut_seed
+Pine Nut,LOW,None,nut_seed
+pine nut,LOW,None,nut_seed
+Green Tea,LOW,None,beverage
+green tea,LOW,None,beverage
+Black Tea,LOW,None,beverage
+black tea,LOW,None,beverage
+coffee,LOW,None,beverage
+organic coffee,LOW,None,beverage
+raw coffee,LOW,None,beverage
+Coffee,LOW,None,beverage
+dried coffee,LOW,None,beverage
+fresh coffee,LOW,None,beverage
+Water,LOW,None,beverage
+water,LOW,None,beverage
+raw water,LOW,None,beverage
+organic water,LOW,None,beverage
+fresh water,LOW,None,beverage
+dried water,LOW,None,beverage
+Sparkling Water,LOW,None,beverage
+sparkling water,LOW,None,beverage
+Orange Juice,LOW,None,beverage
+orange juice,LOW,None,beverage
+Cranberry Juice,LOW,None,beverage
+cranberry juice,LOW,None,beverage
+olive oil,LOW,None,condiment
+Olive Oil,LOW,None,condiment
+fresh vinegar,LOW,None,condiment
+raw vinegar,LOW,None,condiment
+dried vinegar,LOW,None,condiment
+Vinegar,LOW,None,condiment
+organic vinegar,LOW,None,condiment
+vinegar,LOW,None,condiment
+Mustard,LOW,None,condiment
+dried mustard,LOW,None,condiment
+mustard,LOW,None,condiment
+raw mustard,LOW,None,condiment
+fresh mustard,LOW,None,condiment
+organic mustard,LOW,None,condiment
+basil,LOW,None,condiment
+raw basil,LOW,None,condiment
+organic basil,LOW,None,condiment
+Basil,LOW,None,condiment
+fresh basil,LOW,None,condiment
+dried basil,LOW,None,condiment
+Oregano,LOW,None,condiment
+dried oregano,LOW,None,condiment
+fresh oregano,LOW,None,condiment
+raw oregano,LOW,None,condiment
+organic oregano,LOW,None,condiment
+oregano,LOW,None,condiment
+raw thyme,LOW,None,condiment
+dried thyme,LOW,None,condiment
+organic thyme,LOW,None,condiment
+thyme,LOW,None,condiment
+fresh thyme,LOW,None,condiment
+Thyme,LOW,None,condiment
+Rosemary,LOW,None,condiment
+dried rosemary,LOW,None,condiment
+raw rosemary,LOW,None,condiment
+organic rosemary,LOW,None,condiment
+rosemary,LOW,None,condiment
+fresh rosemary,LOW,None,condiment
+dried parsley,LOW,None,condiment
+raw parsley,LOW,None,condiment
+Parsley,LOW,None,condiment
+organic parsley,LOW,None,condiment
+fresh parsley,LOW,None,condiment
+parsley,LOW,None,condiment
+raw cilantro,LOW,None,condiment
+cilantro,LOW,None,condiment
+Cilantro,LOW,None,condiment
+dried cilantro,LOW,None,condiment
+organic cilantro,LOW,None,condiment
+fresh cilantro,LOW,None,condiment
+Turmeric,LOW,None,condiment
+raw turmeric,LOW,None,condiment
+organic turmeric,LOW,None,condiment
+dried turmeric,LOW,None,condiment
+fresh turmeric,LOW,None,condiment
+turmeric,LOW,None,condiment
+cumin,LOW,None,condiment
+Cumin,LOW,None,condiment
+raw cumin,LOW,None,condiment
+organic cumin,LOW,None,condiment
+fresh cumin,LOW,None,condiment
+dried cumin,LOW,None,condiment
+Paprika,LOW,None,condiment
+raw paprika,LOW,None,condiment
+paprika,LOW,None,condiment
+organic paprika,LOW,None,condiment
+dried paprika,LOW,None,condiment
+fresh paprika,LOW,None,condiment
+organic ginger,LOW,None,condiment
+ginger,LOW,None,condiment
+Ginger,LOW,None,condiment
+fresh ginger,LOW,None,condiment
+raw ginger,LOW,None,condiment
+dried ginger,LOW,None,condiment
+Black Pepper,LOW,None,condiment
+black pepper,LOW,None,condiment
