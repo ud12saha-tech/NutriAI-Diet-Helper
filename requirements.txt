@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+faiss-cpu
+torchvision
+sentence-transformers
+requests
+beautifulsoup4
+fpdf
