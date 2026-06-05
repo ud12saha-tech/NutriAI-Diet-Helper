@@ -53,3 +53,7 @@ streamlit run code/app.py
 * Ravi (GERD + Gluten-Free)
 * Mei (Type 2 Diabetes + Vegan + Tree Nut Allergy)
 * James (Hypertension + Pescatarian + Soy Allergy)
+
+## Public Deployment
+
+https://nutriai-diet-apper-sqzqn5dhkxsiam2ednwfhd.streamlit.app/
