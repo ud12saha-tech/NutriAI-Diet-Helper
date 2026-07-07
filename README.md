@@ -18,9 +18,8 @@ The system supports users with:
 * Hypertension
 * Common food allergies and intolerances
 
-## BAX-423 Techniques
 
-This project incorporates two BAX-423 techniques:
+This project incorporates the following two techniques:
 
 1. Embedding-Based Retrieval (FAISS)
 2. Ranking-Based Recommendation
